@@ -1,0 +1,3 @@
+pip install "sqlframe[postgres]"
+pip install "sqlframe[duckdb]"
+pip install "sqlframe[snowflake]"
